@@ -1,0 +1,23 @@
+[
+  {
+    "email": "hani@gmail.com",
+    "username": "Dylan",
+    "password": "000",
+    "gender": "male",
+    "age": "21"
+  },
+  {
+    "email": "mazen@gmail.com",
+    "username": "Mazen",
+    "password": "0000",
+    "gender": "male",
+    "age": "12"
+  },
+  {
+    "email": "boda @gmail.com",
+    "username": "boda",
+    "password": "111",
+    "gender": "male",
+    "age": "2"
+  }
+]

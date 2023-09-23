@@ -1,0 +1,19 @@
+{
+  "boda": {
+    "pending": [],
+    "accepted": [],
+    "friends": [
+      "Dylan",
+      "Dylan"
+    ]
+  },
+  "Mazen": {
+    "pending": [
+      {
+        "sender": "12",
+        "receiver": "Mazen"
+      }
+    ],
+    "accepted": []
+  }
+}
