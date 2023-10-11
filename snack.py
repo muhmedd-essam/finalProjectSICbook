@@ -1,11 +1,8 @@
 import tkinter as tk
 import random
-
-
-class SnakeGame():
-    def __init__(self, root):
+class SnakeGame:
+    def __init__(self,root):
         self.root = root
-        self.game = SnakeGame(root)
         self.canvas_width = 400
         self.canvas_height = 400
         self.canvas = tk.Canvas(self.root, width=self.canvas_width, height=self.canvas_height)
@@ -109,14 +106,10 @@ class SnakeGame():
 
 
 
-# Create the game window
+
 root = tk.Tk()
 root.title("Snake Game")
-# #
-# Create the game instance
-game = SnakeGame(root)
-#
-# Run the game window
 
-# تشغيل النافذة
+game = SnakeGame(root)
+
 root.mainloop()
